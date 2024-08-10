@@ -40,7 +40,3 @@ This project is licensed under the [MIT License](LICENSE), allowing for broad us
 ### Contact
 
 For questions or support, please contact 22cb009@drngpit.ac.in or open an issue on the GitHub repository.
-
----
-
-Feel free to adjust the details based on your specific project features and setup!
