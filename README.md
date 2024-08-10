@@ -1,7 +1,3 @@
-Certainly! Here’s a concise and professional description for your GitHub repository showcasing a Power BI dashboard:
-
----
-
 ## Power BI Dashboard
 
 Welcome to the Power BI Dashboard repository! This project features a comprehensive Power BI dashboard designed for advanced data visualization and analysis. The dashboard leverages Power BI’s powerful features to deliver actionable insights and enhance data-driven decision-making.
